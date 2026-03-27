@@ -1,19 +1,4 @@
-# .github/.github/FUNDING.yml
-# Keep only the entries you actually use.
-# Empty values are harmless while you decide.
-
 github: [paulohl]
 
-patreon:
-open_collective:
-ko_fi:
-tidelift:
-community_bridge:
-liberapay:
-issuehunt:
-otechie:
-
 custom:
-  - "https://github.com/sponsors/paulohl"
   - "https://zinnialabs.science"
-  - "https://www.zinnia-ai.com"
